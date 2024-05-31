@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 function CreateLearner({ addLearner }) {
     const newLearner = {
-        id: Math.random() + 1,
+        id: (Math.random() + 1) * 10,
         name: "Wes Mungia",
         bio: "Repudiandae veritatis recusandae quidem tenetur impedit, numquam incidunt enim, adipisci id cupiditate asperiores nam perferendis. Facere odit laborum ipsum autem repellendus natus eius doloremque ullam perferendis. Enim repellendus ut veniam?",
         scores: [

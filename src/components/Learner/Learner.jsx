@@ -10,6 +10,7 @@ const LearnerContainer = styled.div`
     h1 {
         text-align: center;
         padding-bottom: 0.3em;
+        text-decoration: underline solid #000000 3px;
     }
     p {
         padding-bottom: 0.6em;
