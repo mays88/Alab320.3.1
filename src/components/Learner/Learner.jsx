@@ -9,6 +9,7 @@ const LearnerContainer = styled.div`
     background-color: aliceblue;
     h1 {
         text-align: center;
+        padding-bottom: 0.3em;
     }
     p {
         padding-bottom: 0.6em;
